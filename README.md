@@ -4,7 +4,7 @@
 
 🔹 My Role:
 - Data cleaning & preprocessing
-- Company-wise CSV handling (GBIME)
+- Company-wise CSV handling
 - Exploratory data analysis
 
 🔗 Project Repository:
